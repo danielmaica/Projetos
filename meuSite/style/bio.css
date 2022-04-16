@@ -1,0 +1,26 @@
+/*header*/
+header h1 {
+    text-transform: uppercase;
+    color: rgb(255, 44, 44);
+}
+
+header h2 {
+    color: rgb(225, 134, 253);
+}
+
+header img {
+    width: 240px;
+    height: 210px;
+    border-radius: 50%;
+    border: 4px solid rgb(255, 44, 44);
+}
+
+.center {
+    text-align: center;
+}
+
+/*main*/
+
+main h3 {
+    color: rgb(0, 255, 213);
+}
